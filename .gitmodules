@@ -3,3 +3,18 @@
 	url = https://github.com/r-universe-org/cran-to-git
 	shallow = true
 	branch = HEAD
+[submodule "nzpullover"]
+	path = nzpullover
+	url = https://github.com/nacnudus/nzpullover
+	shallow = true
+	registered = true
+[submodule "tidyxl"]
+	path = tidyxl
+	url = https://github.com/nacnudus/tidyxl
+	shallow = true
+	registered = true
+[submodule "unpivotr"]
+	path = unpivotr
+	url = https://github.com/nacnudus/unpivotr
+	shallow = true
+	registered = true

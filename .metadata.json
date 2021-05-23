@@ -1,0 +1,14 @@
+[
+  {
+    "package": "nzpullover",
+    "oncran": true
+  },
+  {
+    "package": "tidyxl",
+    "oncran": true
+  },
+  {
+    "package": "unpivotr",
+    "oncran": true
+  }
+]
